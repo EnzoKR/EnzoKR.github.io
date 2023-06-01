@@ -1,0 +1,10 @@
+{
+    "name": "Routine Master",
+    "short_name": "Routine Master",
+    "description": "Um aplicativo PWA Legal",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
+  
